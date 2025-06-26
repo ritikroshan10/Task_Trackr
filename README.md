@@ -33,17 +33,29 @@ A simple and beautiful **TaskTracer** built with the **MERN Stack** (MongoDB, Ex
 ## 📂 Folder Structure
 
 TaskTracer/
+
 ├── server/
+
 │ ├── models/Task.js
+
 │ ├── controllers/taskController.js
+
 │ ├── routes/taskRoutes.js
+
 │ ├── config/db.js
+
 │ └── server.js
+
 ├── client/
+
 │ ├── src/
+
 │ │ ├── components/TaskCard.jsx
+
 │ │ ├── pages/Home.jsx
+
 │ │ └── App.js
+
 │ └── tailwind.config.js
 
 1-->>>. Setup Backend
