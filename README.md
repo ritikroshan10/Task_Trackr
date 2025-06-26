@@ -49,17 +49,20 @@ TaskTracer/
 1-->>>. Setup Backend
 
 cd server
+
 npm install
 
 1.1--- Create a .env file in backend/:
 
 MONGO_URI=your_mongodb_connection_string
+
 PORT=5000
 
 
 1.2--- Start the backend server:
 
 nodemon server.js
+
 
 2--->>. Setup Frontend
 
